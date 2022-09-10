@@ -1,0 +1,39 @@
+﻿body {
+    background-color:;
+}
+.nvbr {
+    background-color: transparent;
+    background-image: url("https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg?w=360");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.jmb{
+    text-align:center;
+}
+.cr-slide img {
+    height: 500px;
+}
+.idx-main-tpc {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size:50px;
+}
+.idx-main-para {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer-cus{
+    text-align:center;
+}
+.footer-left {
+    background-color: lightblue;
+    height: max-content;
+}
+.footer-center {
+    background-color: lightcyan;
+    height: max-content;
+}
+.footer-right {
+    background-color: lightgray;
+    height: max-content;
+}
